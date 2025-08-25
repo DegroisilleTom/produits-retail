@@ -2,6 +2,7 @@
 
 #Contexte
 Ce projet SQL a pour objectif de démontrer mes compétences en data analysis à partir d’un jeu de données retail (supply chain, ventes, clients, retours).
+
 Le dataset contient :
 Les commandes (retails_order) : informations sur les clients, produits, ventes, profits, retours, etc.
 Le calendrier (calendar) : dimensions temporelles (date, mois, année, nom du mois, etc.) pour l’analyse des séries temporelles.
